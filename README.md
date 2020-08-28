@@ -7,4 +7,4 @@ Libraries used:
 GLEW 2.1 32 bit
 GLFW 3.3.2
 
-My opinion on GLSL(shading language)? Not fun. 
+My opinion on GLSL(shading language)? Complex and not so fun. 
